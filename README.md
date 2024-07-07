@@ -21,4 +21,4 @@ Ready to dive in? Follow these steps to get started with the Java 30 Days of Cod
 ## Let's Code Together!
 Whether you're a beginner or an experienced developer, there's always something new to learn. Let's code together and make progress every day!
 
-Happy coding! 🚀
+Happy coding!🚀
