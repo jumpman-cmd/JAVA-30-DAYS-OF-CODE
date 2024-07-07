@@ -15,8 +15,7 @@ Ready to dive in? Follow these steps to get started with the Java 30 Days of Cod
 1. Clone or fork this repository to your local machine.
 2. Navigate to the corresponding folder for the current day's challenge.
 3. Read the challenge description and instructions carefully.
-4. Look for my solution written in Java.
-5. Share your solution or discuss your approach with the community.
+4. Look for my solutions written in Java.
 
 ## Let's Code Together!
 Whether you're a beginner or an experienced developer, there's always something new to learn. Let's code together and make progress every day!
