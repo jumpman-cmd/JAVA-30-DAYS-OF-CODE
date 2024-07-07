@@ -19,6 +19,6 @@ Ready to dive in? Follow these steps to get started with the Java 30 Days of Cod
 5. Share your solution or discuss your approach with the community.
 
 ## Let's Code Together!
-Join us on this coding journey as we explore Java programming concepts and sharpen our coding skills. Whether you're a beginner or an experienced developer, there's always something new to learn. Let's code together and make progress every day!
+Whether you're a beginner or an experienced developer, there's always something new to learn. Let's code together and make progress every day!
 
 Happy coding! 🚀
