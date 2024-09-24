@@ -1,3 +1,22 @@
+/*
+Description
+    Purpose: The program draws a diamond shape on the console, centered at a specified coordinate within a defined grid size. 
+    The size of the diamond is determined by user input, as well as the center coordinates.
+
+    Key Methods:
+        drawDiamond(int sizeOfShape, int xCentre, int yCentre): This method handles the drawing of the diamond.
+            It iterates through a 25-row by 79-column grid.
+            For each cell in the grid:
+                If the row or column is a multiple of 10, it prints an equal sign (=).
+                It calculates the Manhattan distance from the center to determine if a position is within the diamond's bounds.
+                It prints a dollar sign ($) if within bounds, otherwise a space.
+
+    Main Method:
+        Prompts the user for the size of the diamond (between 2 and 9).
+        Prompts for the center coordinates, ensuring they fall within the valid ranges (1-79 for x and 1-25 for y).
+        Calls drawDiamond() with the user-provided parameters.
+*/
+
 import java.util.Scanner;
 
 public class Diamond 
